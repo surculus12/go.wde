@@ -18,7 +18,7 @@ package win
 
 import (
 	"errors"
-	"github.com/AllenDang/w32"
+	"github.com/TheTitanrain/w32"
 	"github.com/skelterjohn/go.wde"
 	"image"
 	"runtime"

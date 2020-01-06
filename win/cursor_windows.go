@@ -17,7 +17,7 @@
 package win
 
 import (
-	"github.com/AllenDang/w32"
+	"github.com/TheTitanrain/w32"
 	"github.com/skelterjohn/go.wde"
 )
 

@@ -19,7 +19,7 @@ package win
 import (
 	"errors"
 	"fmt"
-	"github.com/AllenDang/w32"
+	"github.com/TheTitanrain/w32"
 	"syscall"
 	"unsafe"
 )
